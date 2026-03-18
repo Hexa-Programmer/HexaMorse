@@ -12,7 +12,7 @@
                                                                                             
 
 HexaMorse is a **terminal-based Morse code typing tool** with a real-time cheatsheet. Type dots and dashes, and it decodes your Morse input instantly. Perfect for practicing Morse, playing around, or just showing off to your friends.  
-
+![Hexatyping Gameplay](sc.png)
 ---
 
 ## Features
