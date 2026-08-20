@@ -89,4 +89,4 @@ MIT License
  — use, modify, and share freely.
 Note: This project was developed by Hexa Programmer. I used AI to assist with debugging and refining the terminal rendering logic.
 Made with ❤️ by Hexa-Programmer
-Keep tapping those dots and dashes 💀
+Keep tapping those dots and dashes!
